@@ -1045,6 +1045,12 @@ Skills for marketing professionals, content creators, and growth teams.
   - Reference layer covers benchmarks, GDPR/CAN-SPAM/CASL compliance, cold email, SMS and WhatsApp, and 19 industry playbooks
   - Install: `npx skills add CosmoBlk/email-marketing-bible`
 
+- [paperandbeyond23-gif/restosignals-mcp](https://github.com/paperandbeyond23-gif/restosignals-mcp) ![Stars](https://img.shields.io/github/stars/paperandbeyond23-gif/restosignals-mcp?style=flat-square)
+  - Finds US restaurants and bars 1-6 months before they open, as scored B2B leads
+  - Fuses public liquor-license, food-permit and new-business filings into one deduped venue with `opening_score` (0-100) and owner contact
+  - Agent skill + Claude Code plugin (`/plugin marketplace add paperandbeyond23-gif/restosignals-mcp`) backed by a hosted MCP server
+  - Tools: `coverage`, `new_openings`, `venue_signals`, `watch_area`; free API key required
+
 ---
 
 ## Domain-Specific Skills
